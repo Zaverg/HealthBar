@@ -65,8 +65,8 @@
     <Compile Include="Assets\Scripts\SmoothSliderHealthBar.cs" />
     <Compile Include="Assets\Scripts\IDamageble.cs" />
     <Compile Include="Assets\Scripts\ButtonAction.cs" />
-    <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\DamageButton.cs" />
+    <Compile Include="Assets\Scripts\HealthView.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\IHealeble.cs" />
     <Compile Include="Assets\Scripts\TextHealthBar.cs" />

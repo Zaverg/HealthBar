@@ -6,6 +6,7 @@ public class Health : MonoBehaviour, IDamageble, IHealebel
     public event Action<float, float> HealthChanged;
 
     [SerializeField] private float _maxHealth;
+    [SerializeField] private float _minHealth;
     [SerializeField] private float _currentHealth;
 
     private void Awake()
@@ -16,14 +17,10 @@ public class Health : MonoBehaviour, IDamageble, IHealebel
 
     public void TakeDamage(float damage)
     {
-        if (_currentHealth - damage >= 0)
-        {
-            _currentHealth -= damage;
-        }
-        else
-        {
-            _currentHealth = 0;
-        }
+        if (damage <= 0) 
+            return;
+
+        _currentHealth = Math.Clamp(_currentHealth - damage, 0, _maxHealth);
 
         HealthChanged?.Invoke(_currentHealth, _maxHealth);
         HandleDeath();
@@ -31,14 +28,10 @@ public class Health : MonoBehaviour, IDamageble, IHealebel
 
     public void Heal(float heal)
     {
-        if(_currentHealth + heal <= _maxHealth)
-        {
-            _currentHealth += heal;
-        }
-        else
-        {
-            _currentHealth = _maxHealth;
-        }
+        if (heal <= 0) 
+            return;
+
+        _currentHealth = Math.Clamp(_currentHealth + heal, 0, _maxHealth);
 
         HealthChanged?.Invoke(_currentHealth, _maxHealth);
     }
@@ -46,6 +39,6 @@ public class Health : MonoBehaviour, IDamageble, IHealebel
     private void HandleDeath()
     {
         if (_currentHealth <= 0)
-            gameObject.SetActive(false);
+            Debug.Log("Die");
     }
 }

@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class SmoothSliderHealthBar : SliderHealthBar
 {   
-    [SerializeField, Range(0.01f, 1f)] private float _speedChange;
+    [SerializeField, Min(0.01f)] private float _speedChange;
 
     private Coroutine _coroutine;
 
@@ -11,17 +11,19 @@ public class SmoothSliderHealthBar : SliderHealthBar
     {
         if (_coroutine != null)
             StopCoroutine(_coroutine);
-        
-        float currentHPPrecetn = ConversionToSliderValue(currentHP, maxHP);
 
-        _coroutine = StartCoroutine(StartCangingHP(currentHPPrecetn));
+        _coroutine = StartCoroutine(StartCangingHP(currentHP / maxHP));
     }
 
     private IEnumerator StartCangingHP(float target)
     {
+        float startValue = _slider.value;
+        float value = 0;
+
         while (_slider.value != target)
         {
-            _slider.value = Mathf.MoveTowards(_slider.value, target, _speedChange * Time.deltaTime);
+            _slider.value = Mathf.Lerp(startValue, target, value);
+            value = Mathf.Clamp01(value + _speedChange * Time.deltaTime);
 
             yield return null;
         }

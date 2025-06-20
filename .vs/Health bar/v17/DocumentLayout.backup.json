@@ -7,40 +7,16 @@
       "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\smoothsliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|c:\\users\\i2016\\health bar\\assets\\scripts\\buttonaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|c:\\users\\i2016\\health bar\\assets\\scripts\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\texthealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\texthealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|c:\\users\\i2016\\health bar\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\ihealeble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ihealeble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|C:\\Users\\i2016\\Health bar\\assets\\scripts\\idamageble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamageble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|c:\\users\\i2016\\health bar\\assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98753DB-E12B-F205-0A61-D188B5725174}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sliderhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,16 +30,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ButtonAction.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\ButtonAction.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonAction.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\ButtonAction.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ButtonAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T05:32:39.312Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-06-20T12:57:27.737Z",
               "EditorCaption": ""
             },
             {
@@ -74,111 +49,36 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothSliderHealthBar.cs",
               "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\SmoothSliderHealthBar.cs",
               "RelativeToolTip": "Assets\\Scripts\\SmoothSliderHealthBar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T07:24:36.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SliderHealthBar.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\SliderHealthBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SliderHealthBar.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\SliderHealthBar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SliderHealthBar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T07:24:36.93Z",
+              "WhenOpened": "2025-06-20T12:53:49.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TextHealthBar.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\TextHealthBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TextHealthBar.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\TextHealthBar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TextHealthBar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Title": "SliderHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\SliderHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SliderHealthBar.cs",
+              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\SliderHealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SliderHealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T06:53:25.303Z",
+              "WhenOpened": "2025-06-20T12:50:23.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IHealeble.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\IHealeble.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\IHealeble.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\IHealeble.cs",
-              "RelativeToolTip": "Assets\\Scripts\\IHealeble.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HealthView.cs",
+              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\HealthView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthView.cs",
+              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\HealthView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T05:44:39.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Heal.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Heal.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Heal.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Heal.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Heal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T05:30:54.837Z",
+              "WhenOpened": "2025-06-20T12:46:40.777Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Damage.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Damage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Damage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T05:26:32.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IDamageble.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\IDamageble.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\IDamageble.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\IDamageble.cs",
-              "RelativeToolTip": "Assets\\Scripts\\IDamageble.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T05:17:53.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Health.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Health.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\Health.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T05:15:46.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HealthBar.cs",
-              "DocumentMoniker": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\HealthBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
-              "ToolTip": "C:\\Users\\i2016\\Health bar\\Assets\\Scripts\\HealthBar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T05:12:41.608Z"
             }
           ]
         }
